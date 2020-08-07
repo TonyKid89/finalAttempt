@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="artid" external.linked.project.path="$MODULE_DIR$/../../artid" external.root.project.path="$MODULE_DIR$/../../artid" external.system.id="GRADLE" external.system.module.group="grid" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../artid" rootProjectPath="$MODULE_DIR$/../../artid" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../artid">
+      <excludeFolder url="file://$MODULE_DIR$/../../artid/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../artid/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
