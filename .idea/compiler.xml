@@ -2,8 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="ant2id.main" target="1.8" />
+      <module name="ant2id.test" target="1.8" />
       <module name="artid.main" target="1.8" />
       <module name="artid.test" target="1.8" />
+      <module name="grid.artid.main" target="1.8" />
+      <module name="grid.artid.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
